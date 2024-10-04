@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.blaze.house.colorpicker;
+package com.tweak.house.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

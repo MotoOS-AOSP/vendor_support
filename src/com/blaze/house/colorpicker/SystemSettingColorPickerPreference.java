@@ -1,12 +1,12 @@
-package com.blaze.house.colorpicker;
+package com.tweak.house.colorpicker;
 
 import android.content.Context;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.provider.Settings;
 
-import com.blaze.house.preferences.SystemSettingsStore;
-import com.blaze.house.colorpicker.ColorPickerPreference;
+import com.tweak.house.preferences.SystemSettingsStore;
+import com.tweak.house.colorpicker.ColorPickerPreference;
 public class SystemSettingColorPickerPreference extends ColorPickerPreference {
 
     public SystemSettingColorPickerPreference(Context context, AttributeSet attrs, int defStyle) {

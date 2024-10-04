@@ -1,4 +1,4 @@
-package com.blaze.house.helpers;
+package com.tweak.house.helpers;
 
 import android.annotation.SuppressLint;
 import androidx.appcompat.widget.AppCompatImageView;
@@ -15,7 +15,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 public class CircularImageView extends AppCompatImageView {
 

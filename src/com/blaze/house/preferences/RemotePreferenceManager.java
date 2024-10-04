@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -33,9 +33,9 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 
-import static com.blaze.house.preferences.RemotePreference.ACTION_REFRESH_PREFERENCE;
-import static com.blaze.house.preferences.RemotePreference.ACTION_UPDATE_PREFERENCE;
-import static com.blaze.house.preferences.RemotePreference.EXTRA_KEY;
+import static com.tweak.house.preferences.RemotePreference.ACTION_REFRESH_PREFERENCE;
+import static com.tweak.house.preferences.RemotePreference.ACTION_UPDATE_PREFERENCE;
+import static com.tweak.house.preferences.RemotePreference.EXTRA_KEY;
 
 /**
  * Manages attaching and detaching of RemotePreferences and optimizes callbacks

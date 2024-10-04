@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -42,7 +42,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 public class IconPackPreference extends Preference {
 

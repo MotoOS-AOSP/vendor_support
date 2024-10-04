@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.blaze.house.preferences.SystemSettingsStore;
+import com.tweak.house.preferences.SystemSettingsStore;
 
 public class SystemSettingMasterSwitchPreference extends MasterSwitchPreference {
 

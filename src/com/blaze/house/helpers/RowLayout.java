@@ -1,4 +1,4 @@
-package com.blaze.house.helpers;
+package com.tweak.house.helpers;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 public final class RowLayout extends ViewGroup {
     private static final int DEFAULT_HORIZONTAL_SPACING = 5;

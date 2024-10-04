@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.app.ListActivity;
 import android.content.Context;
@@ -38,7 +38,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 public class AppPicker extends ListActivity {
 

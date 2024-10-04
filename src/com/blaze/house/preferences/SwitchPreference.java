@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.content.Context;
 import android.os.VibrationEffect;

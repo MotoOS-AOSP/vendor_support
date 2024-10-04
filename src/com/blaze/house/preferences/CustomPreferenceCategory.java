@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
 import androidx.preference.PreferenceCategory;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 public class CustomPreferenceCategory extends PreferenceCategory {
 

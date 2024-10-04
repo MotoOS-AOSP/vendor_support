@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -28,7 +28,7 @@ import android.widget.Switch;
 import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.PreferenceViewHolder;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 /**
  * A custom preference that provides inline switch toggle. It has a mandatory field for title, and

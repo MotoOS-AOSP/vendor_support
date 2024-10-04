@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.blaze.house.colorpicker;
+package com.tweak.house.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -37,7 +37,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 /**
  * A preference type that allows a user to choose a time

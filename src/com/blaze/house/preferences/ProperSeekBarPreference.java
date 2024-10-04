@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -31,7 +31,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.blaze.house.R;
+import com.tweak.house.R;
 
 public class ProperSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener,
         View.OnClickListener, View.OnLongClickListener {

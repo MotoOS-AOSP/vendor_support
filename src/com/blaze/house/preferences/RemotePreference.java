@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.content.ComponentName;
 import android.content.Context;

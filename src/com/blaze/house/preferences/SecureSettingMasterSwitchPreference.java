@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.blaze.house.preferences;
+package com.tweak.house.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.blaze.house.preferences.SecureSettingsStore;
+import com.tweak.house.preferences.SecureSettingsStore;
 
 public class SecureSettingMasterSwitchPreference extends MasterSwitchPreference {
 
